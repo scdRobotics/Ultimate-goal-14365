@@ -1,5 +1,22 @@
 # Summit Robotics (14365) Ultimate Goal Season code
 
+## Installation of Android Studio
+
+### Prerequisites
+* Download GIT (https://git-scm.com/downloads) and go through the process of installation. If asked to enter your information, do so accurately.
+* Download Android Studio from Google (https://developer.android.com/studio) and go through the process of installation.
+
+### In the Android Studio opening menu
+![Screenshot](https://raw.githubusercontent.com/scdRobotics/Ultimate-goal-14365/master/readme_assets/Screen%20Shot%202020-09-18%20at%201.38.23%20PM.png)
+
+Select `Get from Version Control`:
+![Screenshot](https://raw.githubusercontent.com/scdRobotics/Ultimate-goal-14365/master/readme_assets/Screen%20Shot%202020-09-18%20at%201.42.51%20PM.png)
+In the URL input, put `https://github.com/scdRobotics/Ultimate-goal-14365.git`. Leave the directory alone. Select `Clone`.
+
+Allow Android Studio to download the files, then click `Open` when it gives you a dialogue.
+
+### In Android Studio
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the SKYSTONE (2019-2020) competition season.
